@@ -1,0 +1,8 @@
+internal class Program
+{
+    static void Main(string[] args)
+    {
+       Manadment tree = new Manadment();
+        tree.Start();
+    }
+}
